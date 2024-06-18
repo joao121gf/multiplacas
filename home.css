@@ -1,7 +1,9 @@
  .u-section-1 {
   background-image: none;
 }
-
+body{
+  overflow-x: hidden;
+}
 .u-section-1 .u-sheet-1 {
   min-height: 997px;
 }
