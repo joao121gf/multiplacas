@@ -355,7 +355,9 @@ body {
   margin: -45px 859px 0;
   padding: 10px 42px 10px 40px;
 }
-
+.pswp{
+  display: none;
+}
 .usheet2{
   padding: 0px 200px;
 }
