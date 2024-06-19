@@ -45368,7 +45368,9 @@ blockquote {
     margin-left: -143px;
   }
 }
-
+.pswp {
+  display: none;
+}
 /*begin-variables base-font-size*/
 html {
   font-size: 16px;
