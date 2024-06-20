@@ -355,10 +355,10 @@ body {
   margin: -45px 859px 0;
   padding: 10px 42px 10px 40px;
 }
-.pswp{
+.pswp {
   display: none;
 }
-.usheet2{
+.usheet2 {
   padding: 0px 200px;
 }
 .u-section-1 .u-btn-15 {
@@ -413,54 +413,54 @@ body {
 @media (max-width: 1199px) {
   .u-dialog-section-30 .u-icon-1 {
     top: -78px;
-}
+  }
   .u-dialog-section-30 .u-gallery-1 {
     height: 558px;
     margin-bottom: 0;
     margin-top: -55px;
-}
+  }
   .u-dialog-section-31 .u-icon-1 {
     top: -96px;
-}
+  }
   .u-dialog-section-31 .u-gallery-1 {
     height: 558px;
     margin-bottom: 0;
     margin-top: -72px;
-}
+  }
   .u-dialog-section-14 .u-dialog-1 {
     width: 340px important;
     margin-left: calc(((100% - 339px) / 2)) !important;
-}
+  }
   .u-dialog-section-15 .u-dialog-1 {
     width: 800px;
     min-height: 554px;
     height: auto;
     margin: 338px auto -14px;
-}
+  }
   .u-dialog-section-15 .u-dialog-1 {
     width: 340px important;
     margin-left: calc(((100% - 335px) / 2)) !important;
-}
+  }
   .u-dialog-section-9 .u-icon-1 {
     left: 311px;
     top: -141px;
-}
+  }
   .u-dialog-section-12 .u-icon-1 {
     left: 417px;
     top: -164px;
-}
+  }
   .u-dialog-section-12 .u-dialog-1 {
     margin: 369px auto 27px;
-}
+  }
   .u-dialog-section-13 .u-dialog-1 {
     width: 340px important;
     margin-left: calc(((100% - 335px) / 2)) !important;
-}
+  }
   .u-footer .u-social-icons-1 {
     min-width: 178px;
-}
+  }
 
-  .fuu{
+  .fuu {
     display: none;
   }
   .teeext {
@@ -628,7 +628,6 @@ body {
 }
 
 @media (max-width: 767px) {
-
   .usheet2 {
     width: 53px !important;
   }
