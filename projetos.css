@@ -411,6 +411,14 @@ body {
 }
 
 @media (max-width: 1199px) {
+  .u-dialog-section-15 .u-icon-1 {
+    top: 209px !important;
+  }
+  .u-dialog-section-15 .u-gallery-1 {
+    height: 554px;
+    margin-bottom: 0;
+    margin-top: 226px !important;
+  }
   .u-dialog-section-30 .u-icon-1 {
     top: -78px !important;
   }
