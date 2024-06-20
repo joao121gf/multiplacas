@@ -446,6 +446,12 @@ body {
     margin: 338px auto -14px;
   }
   .u-dialog-section-15 .u-dialog-1 {
+    width: 171px;
+    min-height: 202px;
+    height: auto;
+    margin: 3px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
+  }
+  .u-dialog-section-15 .u-dialog-1 {
     width: 340px important;
     margin-left: calc(((100% - 335px) / 2)) !important;
   }
