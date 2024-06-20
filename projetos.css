@@ -411,6 +411,13 @@ body {
 }
 
 @media (max-width: 1199px) {
+  .u-footer .u-social-icons-1 {
+    min-width: 178px;
+}
+
+  .fuu{
+    display: none;
+  }
   .teeext {
     padding-bottom: 40px;
   }
