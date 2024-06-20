@@ -2616,6 +2616,10 @@ a {
   width: 100%;
 }
 @media (max-width: 575px) {
+  .u-section-5 .u-btn-1 {
+    margin-top: 50px !important;
+    margin-right: 0;
+  }
   .u-form-vertical .u-form-group {
     width: 100%;
   }
@@ -45371,11 +45375,39 @@ blockquote {
   height: 70px;
   margin: -58px auto 30px -143px;
 }
+.linha{
+  border-color: #000000;
+}
 @media (max-width: 1199px) {
+  .u-section-8 .u-text-2 {
+    width: 340px;
+    margin-bottom: 100px  !important;
+}
+  .u-section-7 {
+    background-image: none;
+    margin-top: 100px !important;
+}
+  .u-section-6 .u-group-1 {
+    width: calc(((100% - 340px) / 2) + 340px);
+    margin: 0 auto !important;
+  }
+  .u-section-6 .u-group-2 {
+    margin: 0 auto !important;
+    margin-bottom: 21px !important;
+    margin-top: 100px !important;
+  }
+  .hom {
+    display: none;
+  }
+  .u-section-5 .u-layout-wrap-1 {
+    margin: 102px 0 60px !important;
+  }
   .u-layout-wrap:not(.u-layout-custom-xs) .u-layout .u-layout-cell {
     border-left: 0 !important;
     border-right: 0 !important;
-    margin-top: 62px !important;
+  }
+  .tt {
+    padding-bottom: 62px !important;
   }
   .buto {
     margin: 0px !important;
