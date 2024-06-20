@@ -412,20 +412,20 @@ body {
 
 @media (max-width: 1199px) {
   .u-dialog-section-30 .u-icon-1 {
-    top: -78px;
+    top: -78px !important;
   }
   .u-dialog-section-30 .u-gallery-1 {
     height: 558px;
     margin-bottom: 0;
-    margin-top: -55px;
+    margin-top: -55px !important;
   }
   .u-dialog-section-31 .u-icon-1 {
-    top: -96px;
+    top: -96px !important;
   }
   .u-dialog-section-31 .u-gallery-1 {
     height: 558px;
     margin-bottom: 0;
-    margin-top: -72px;
+    margin-top: -72px !important;
   }
   .u-dialog-section-14 .u-dialog-1 {
     width: 340px important;
@@ -446,7 +446,7 @@ body {
     top: -141px;
   }
   .u-dialog-section-12 .u-icon-1 {
-    left: 417px;
+    left: 417px !important;
     top: -164px;
   }
   .u-dialog-section-12 .u-dialog-1 {

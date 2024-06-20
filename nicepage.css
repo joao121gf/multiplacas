@@ -45396,12 +45396,12 @@ blockquote {
     margin: -187px -428px 0 auto;
   }
   .u-dialog-section-13 .u-icon-1 {
-    top: 10px;
+    top: -19px;
   }
   .u-dialog-section-13 .u-gallery-1 {
     height: 400px;
     width: 400px;
-    margin: 33px -426px -168px auto;
+    margin: 3px -426px -168px auto;
   }
   .u-dialog-section-12 .u-icon-1 {
     top: -202px !important;
@@ -45427,7 +45427,7 @@ blockquote {
   .u-dialog-section-13 .u-gallery-1 {
     height: 400px;
     width: 344px !important;
-    margin: -66px -90px -42px auto;
+    margin: 3px -90px -42px auto;
   }
   .u-dialog-section-13 .u-dialog-1 {
     width: 340px important;
@@ -45437,6 +45437,12 @@ blockquote {
     height: 400px;
     width: 344px !important;
     margin: -66px -90px -42px auto;
+  }
+  .u-dialog-section-14 .u-dialog-1 {
+    width: 160px;
+    min-height: 352px;
+    height: auto;
+    margin: 237px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
   }
   .u-dialog-section-14 .u-dialog-1 {
     width: 340px important;
@@ -45450,6 +45456,12 @@ blockquote {
   .u-dialog-section-15 .u-dialog-1 {
     width: 340px important;
     margin-left: calc(((100% - 807px) / 2)) !important;
+  }
+  .u-dialog-section-15 .u-dialog-1 {
+    width: 171px;
+    min-height: 202px;
+    height: auto;
+    margin: -23px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
   }
 
   /* .u-carousel-item {
