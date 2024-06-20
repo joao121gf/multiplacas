@@ -45379,9 +45379,41 @@ blockquote {
   border-color: #000000;
 }
 @media (max-width: 1199px) {
+  .u-dialog-section-15 .u-icon-1 {
+    top: 77px;
+  }
+  .u-dialog-section-15 .u-gallery-1 {
+    height: 400px;
+    width: 400px;
+    margin: 99px -405px -410px auto;
+  }
+  .u-dialog-section-14 .u-icon-1 {
+    top: -207px;
+  }
+  .u-dialog-section-14 .u-gallery-1 {
+    height: 400px;
+    width: 400px;
+    margin: -187px -428px 0 auto;
+  }
+  .u-dialog-section-13 .u-icon-1 {
+    top: 10px;
+  }
+  .u-dialog-section-13 .u-gallery-1 {
+    height: 400px;
+    width: 400px;
+    margin: 33px -426px -168px auto;
+  }
+  .u-dialog-section-12 .u-icon-1 {
+    top: -202px !important;
+  }
+  .u-dialog-section-12 .u-gallery-1 {
+    height: 400px;
+    width: 400px;
+    margin: -182px -90px -42px auto !important;
+  }
   .u-section-1 .u-btn-5 {
     margin-left: 0;
-    margin-top: 20px !important;
+    margin-top: 44px !important;
   }
   .u-dialog-section-12 .u-gallery-1 {
     height: 400px;
