@@ -45467,7 +45467,7 @@ blockquote {
     width: 171px;
     min-height: 202px;
     height: auto;
-    margin: 336px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
+    margin: -18px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
   }
 
   /* .u-carousel-item {

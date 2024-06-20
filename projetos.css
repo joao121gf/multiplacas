@@ -413,12 +413,12 @@ body {
 @media (max-width: 1199px) {
   .u-dialog-section-15 .u-icon-1 {
     top: 209px !important;
-  }
+}
   .u-dialog-section-15 .u-gallery-1 {
     height: 554px;
     margin-bottom: 0;
     margin-top: 226px !important;
-  }
+}
   .u-dialog-section-30 .u-icon-1 {
     top: -78px !important;
   }
@@ -444,12 +444,6 @@ body {
     min-height: 554px;
     height: auto;
     margin: 338px auto -14px;
-  }
-  .u-dialog-section-15 .u-dialog-1 {
-    width: 171px;
-    min-height: 202px;
-    height: auto;
-    margin: 3px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
   }
   .u-dialog-section-15 .u-dialog-1 {
     width: 340px important;
