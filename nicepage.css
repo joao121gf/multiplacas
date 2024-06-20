@@ -45430,6 +45430,12 @@ blockquote {
     margin: 3px -90px -42px auto;
   }
   .u-dialog-section-13 .u-dialog-1 {
+    width: 165px;
+    min-height: 297px;
+    height: auto;
+    margin: 161px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
+  }
+  .u-dialog-section-13 .u-dialog-1 {
     width: 340px important;
     margin-left: calc(((100% - 835px) / 2)) !important;
   }
@@ -45461,7 +45467,7 @@ blockquote {
     width: 171px;
     min-height: 202px;
     height: auto;
-    margin: -23px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
+    margin: 336px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
   }
 
   /* .u-carousel-item {
