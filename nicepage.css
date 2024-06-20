@@ -45375,18 +45375,50 @@ blockquote {
   height: 70px;
   margin: -58px auto 30px -143px;
 }
-.linha{
+.linha {
   border-color: #000000;
 }
 @media (max-width: 1199px) {
+  .u-footer .u-social-icons-1 {
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+  .logi {
+    display: none;
+  }
+  .u-footer .u-sheet-1 {
+    min-height: 121px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .u-footer .u-social-icons-1 {
+    margin: 19px auto;
+  }
+  .u-section-6 .u-btn-1 {
+    margin: 26px 0px !important;
+  }
+  .u-section-7 .u-btn-1 {
+    margin: 20px 0px !important;
+  }
+  .u-section-6 .u-image-2 {
+    width: 320px;
+    height: 424px;
+    margin-right: 0;
+    margin-left: 0;
+    margin: 103px auto !important;
+  }
+  .uuimg {
+    margin: 0 auto !important;
+  }
   .u-section-8 .u-text-2 {
     width: 340px;
-    margin-bottom: 100px  !important;
-}
+    margin-bottom: 100px !important;
+  }
   .u-section-7 {
     background-image: none;
     margin-top: 100px !important;
-}
+  }
   .u-section-6 .u-group-1 {
     width: calc(((100% - 340px) / 2) + 340px);
     margin: 0 auto !important;
@@ -45421,9 +45453,6 @@ blockquote {
     padding-right: 0px !important;
   }
   .u-btn {
-    margin: 0 auto !important;
-  }
-  .u-image {
     margin: 0 auto !important;
   }
   .gus {
