@@ -416,13 +416,13 @@ body {
     min-height: 566px;
     height: auto;
     margin: 358px auto -7px !important;
-}
+  }
   .u-dialog-section-14 .u-dialog-1 {
     width: 160px;
     min-height: 352px;
     height: auto;
     margin: 313px auto 60px calc(((100% - 1140px) / 2) + 170px) !important;
-}
+  }
   .u-dialog-section-13 .u-dialog-1 {
     width: 165px;
     min-height: 297px;
@@ -438,20 +438,20 @@ body {
     margin-top: 226px !important;
   }
   .u-dialog-section-30 .u-icon-1 {
-    top: -78px !important;
+    top: -61px !important;
   }
   .u-dialog-section-30 .u-gallery-1 {
     height: 558px;
     margin-bottom: 0;
-    margin-top: -55px !important;
+    margin-top: -35px !important;
   }
   .u-dialog-section-31 .u-icon-1 {
-    top: -96px !important;
+    top: -69px !important;
   }
   .u-dialog-section-31 .u-gallery-1 {
     height: 558px;
     margin-bottom: 0;
-    margin-top: -72px !important;
+    margin-top: -48px !important;
   }
   .u-dialog-section-14 .u-dialog-1 {
     width: 340px important;
