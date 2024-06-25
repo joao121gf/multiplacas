@@ -8492,6 +8492,7 @@ section.u-image:not(.u-hover-box),
   flex: 1;
   max-width: 100%;
   transition-duration: inherit;
+  padding-bottom: 37px !important;
 }
 .u-audio-main-layout-wrapper,
 .u-audio-main-layout-wrapper > *,
@@ -44819,6 +44820,21 @@ h2:not(.u-subtitle) {
   list-icon-spacing: 0.3;
   list-icon-size: 0.8;
 }
+.content {
+  padding: 20px;
+}
+
+.whatsapp-fixo {
+  position: fixed;
+  bottom: 31px;
+  right: 45px;
+  z-index: 1000;
+}
+
+.whatsapp-fixo img {
+  width: 64px; /* Ajuste o tamanho do ícone conforme necessário */
+  height: auto;
+}
 h3 {
   font-size: 1.875rem;
   line-height: 1.2;
@@ -45503,8 +45519,11 @@ blockquote {
     margin-left: 0;
     margin: 103px auto !important;
   }
+
   .uuimg {
     margin: 0 auto !important;
+    width: 340px !important;
+    height: 340px !important;
   }
   .u-section-8 .u-text-2 {
     width: 340px;
